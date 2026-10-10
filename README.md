@@ -1,2 +1,2 @@
-# estudos_front_end
+# Estudos de Front-End
 Todos os conteúdos referentes aos meus estudos de Front-End com HTML5 , CSS3 e JavaScript
